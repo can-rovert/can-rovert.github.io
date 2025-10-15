@@ -1,4 +1,3 @@
-# Team R.O.V.E.R.T.
 ## For ESA's 2025-2026 CanSat competition
 
 ## Who are we?
