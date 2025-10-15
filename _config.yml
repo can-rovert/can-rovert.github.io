@@ -1,5 +1,6 @@
 remote_theme: "jekyll/minima@1e8a445"
 title: R.O.V.E.R.T. CanSat
+description: > We are a CanSat team of six members building a CanSat designed to move upon landing.
 show_excerpts: true
 header_pages:
   - about.md
